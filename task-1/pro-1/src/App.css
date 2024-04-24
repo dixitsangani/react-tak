@@ -1,0 +1,15 @@
+.box{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.product-item{
+  text-align: center;
+  width: 20%;
+  background-color: skyblue;
+  margin: 20px;
+  padding: 12px;
+  border-radius: 10px;
+  border: 2px solid black;
+}
+
